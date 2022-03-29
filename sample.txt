@@ -1,0 +1,2 @@
+adding file to master branch not in main branch. main branch is automatically created by github. generally, github creates master branch but this time it create main branch
+I have created master branch from main branch.
